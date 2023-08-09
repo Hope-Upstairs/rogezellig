@@ -72,7 +72,7 @@ Brabant*...
 
 19
 00:00:46,140 --> 00:00:48,260
-{\a2}{...singurele chestii mai false decât scuzele tale...}
+{\a2}{...singurele chestii mai transparente decât scuzele tale...}
 
 20
 00:00:48,260 --> 00:00:50,000
